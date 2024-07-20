@@ -4,12 +4,11 @@
 - WSL2(Ubuntu 22.04.3 LTS)
 - Docker 26.0.0
 - Docker Compose v2.26.1
-- python 3.12.4 (デフォルトは3.12の最新を取得)
-- Flask 3.0.3
+- Nginx 1.27.0
 
 ## 起動方法
 ```
-midir log
+mkdir log
 docker compose up -d
 ```
 
